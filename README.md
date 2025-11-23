@@ -4,7 +4,7 @@ Models a computing center with students, courses, projects, and classrooms using
 The exercise for the course **Modern Database Management - CSC12111 - HCMUS**
 
 ### Instructors
-PhD. Nguyễn Trần Minh Thư
-MSc. Tiết Gia Hồng 
-MSc. Phạm Minh Tú
+- PhD. Nguyễn Trần Minh Thư
+- MSc. Tiết Gia Hồng 
+- MSc. Phạm Minh Tú
 

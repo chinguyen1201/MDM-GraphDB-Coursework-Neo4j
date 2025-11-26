@@ -7,4 +7,5 @@ The exercise for the course **Modern Database Management - CSC12111 - HCMUS**
 - PhD. Nguyễn Trần Minh Thư
 - MSc. Tiết Gia Hồng 
 - MSc. Phạm Minh Tú
+### Individual exercise - 21HTTT (Semester 2 / 2024 - 2025)
 
